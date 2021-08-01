@@ -1,0 +1,3 @@
+﻿  NumberRepeatProblem.cpp
+D:\Yazılım Örnekleri\CodeWars\NumberRepeatProblem\NumberRepeatProblem\NumberRepeatProblem.cpp(64): warning C4172: yerel değişkenin veya geçici : array öğesinin adresi döndürülüyor
+  NumberRepeatProblem.vcxproj -> D:\Yazılım Örnekleri\CodeWars\NumberRepeatProblem\NumberRepeatProblem\x64\Debug\NumberRepeatProblem.exe

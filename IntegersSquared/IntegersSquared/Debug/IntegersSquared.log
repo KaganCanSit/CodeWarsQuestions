@@ -1,0 +1,5 @@
+﻿  IntegersSquared.cpp
+D:\Yazılım Örnekleri\CodeWars\IntegersSquared\IntegersSquared\IntegersSquared.cpp(48,17): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\Yazılım Örnekleri\CodeWars\IntegersSquared\IntegersSquared\IntegersSquared.cpp(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Yazılım Örnekleri\CodeWars\IntegersSquared\IntegersSquared\IntegersSquared.cpp(51,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  IntegersSquared.vcxproj -> D:\Yazılım Örnekleri\CodeWars\IntegersSquared\IntegersSquared\Debug\IntegersSquared.exe

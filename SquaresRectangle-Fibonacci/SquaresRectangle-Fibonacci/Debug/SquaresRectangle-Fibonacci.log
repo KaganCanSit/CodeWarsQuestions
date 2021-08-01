@@ -1,0 +1,3 @@
+﻿  SquaresRectangle-Fibonacci.cpp
+D:\Yazılım Örnekleri\CodeWars\SquaresRectangle-Fibonacci\SquaresRectangle-Fibonacci\SquaresRectangle-Fibonacci.cpp(41,65): warning C4244: 'return': conversion from 'double' to 'ull', possible loss of data
+  SquaresRectangle-Fibonacci.vcxproj -> D:\Yazılım Örnekleri\CodeWars\SquaresRectangle-Fibonacci\SquaresRectangle-Fibonacci\Debug\SquaresRectangle-Fibonacci.exe

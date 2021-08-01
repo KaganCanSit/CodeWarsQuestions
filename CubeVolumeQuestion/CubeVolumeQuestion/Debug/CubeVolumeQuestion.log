@@ -1,0 +1,4 @@
+﻿  CubeVolumeQuestion.cpp
+D:\Yazılım Örnekleri\CodeWars\CubeVolumeQuestion\CubeVolumeQuestion\CubeVolumeQuestion.cpp(10,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Yazılım Örnekleri\CodeWars\CubeVolumeQuestion\CubeVolumeQuestion\CubeVolumeQuestion.cpp(20,17): warning C4244: '-=': conversion from 'double' to '__int64', possible loss of data
+  CubeVolumeQuestion.vcxproj -> D:\Yazılım Örnekleri\CodeWars\CubeVolumeQuestion\CubeVolumeQuestion\Debug\CubeVolumeQuestion.exe
