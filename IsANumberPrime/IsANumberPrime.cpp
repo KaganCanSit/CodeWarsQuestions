@@ -5,7 +5,7 @@ bool isPrime(int num);
 
 int main()
 {
-     cout <<  isPrime(2);
+     cout <<  isPrime(-5);
 }
 
 bool isPrime(int num)
