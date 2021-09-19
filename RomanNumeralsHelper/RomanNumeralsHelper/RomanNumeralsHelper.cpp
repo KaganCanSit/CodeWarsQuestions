@@ -6,7 +6,7 @@ void to_roman(int number, char* destination);
 
 int main()
 {
-	char m[4] = "XXI";
+	char m[5] = "XXIV";
 	cout << from_roman(m);
 	to_roman(21, 0);
 }

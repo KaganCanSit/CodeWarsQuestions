@@ -1,1 +1,2 @@
 D:\Yazılım Örnekleri\CodeWars\ReverseWords\ReverseWords\Debug\ReverseWords.exe
+D:\Yazılım Örnekleri\CodeWarsQuestions\ReverseWords\ReverseWords\Debug\ReverseWords.exe

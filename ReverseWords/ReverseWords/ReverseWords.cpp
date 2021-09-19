@@ -7,31 +7,48 @@
 */
 
 #include <iostream>
+#include <stack>
+#include <queue>
 using namespace std;
-
-string reverse_words(string str);
-
-int main()
-{
-    cout << reverse_words("The quick brown fox jumps over the lazy dog.");
-    
-}
 
 string reverse_words(string str)
 {
-    int n = str.length();
-    
-    int temp=0;
-    for(int c=0;c<n;c++)
+    stack<char> st;
+    queue<char> text;
+    char a = ' ';
+
+    for (int i = 0; i < str.length(); ++i)
     {
-        if (str[c] == ' ')
+        if (str[i] != ' ')
+            st.push(str[i]);
+        else
         {
-            for (int i = temp; i < c - 1 / 2; i++)
-                str[i] = str[c - i];
-            temp = c;
+            while (st.empty() == false)
+            {
+                text.push(st.top());
+                st.pop();
+            }
+            text.push(a);
         }
     }
-    
 
+    while (st.empty() == false)
+    {
+        text.push(st.top());
+        st.pop();
+    }
+
+    for (int a = 0; a < str.length(); a++)
+    {
+        str[a] = text.front();
+        text.pop();
+    }
     return str;
+}
+
+int main()
+{
+    string str = "Hello World";
+    cout<<reverse_words(str);
+    return 0;
 }

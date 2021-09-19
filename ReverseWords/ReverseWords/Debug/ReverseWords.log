@@ -1,2 +1,4 @@
 ﻿  ReverseWords.cpp
-  ReverseWords.vcxproj -> D:\Yazılım Örnekleri\CodeWars\ReverseWords\ReverseWords\Debug\ReverseWords.exe
+D:\Yazılım Örnekleri\CodeWarsQuestions\ReverseWords\ReverseWords\ReverseWords.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+D:\Yazılım Örnekleri\CodeWarsQuestions\ReverseWords\ReverseWords\ReverseWords.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+  ReverseWords.vcxproj -> D:\Yazılım Örnekleri\CodeWarsQuestions\ReverseWords\ReverseWords\Debug\ReverseWords.exe

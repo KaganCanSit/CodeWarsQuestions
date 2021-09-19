@@ -1,0 +1,4 @@
+﻿  FindTheOddInt.cpp
+D:\Yazılım Örnekleri\CodeWarsQuestions\FindTheOddInt\FindTheOddInt\FindTheOddInt.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Yazılım Örnekleri\CodeWarsQuestions\FindTheOddInt\FindTheOddInt\FindTheOddInt.cpp(27): warning C4715: 'findOdd': not all control paths return a value
+  FindTheOddInt.vcxproj -> D:\Yazılım Örnekleri\CodeWarsQuestions\FindTheOddInt\FindTheOddInt\Debug\FindTheOddInt.exe
